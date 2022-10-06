@@ -6,6 +6,7 @@ colors.variants = {
   [4] = "fullmoon",
   [5] = "quasar",
   [6] = "nova",
+  [7] = "kv",
 }
 
 ---Check for the existence of a variant in the variant table
