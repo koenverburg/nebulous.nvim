@@ -1,3 +1,16 @@
+local red = {
+  shade_1 = '#8b0000',
+  shade_2 = '#7d0000',
+  shade_3 = '#6f0000',
+  shade_4 = '#610000',
+  shade_5 = '#530000',
+  shade_6 = '#460000',
+  shade_7 = '#380000',
+  shade_8 = '#2a0000',
+  shade_9 = '#1c0000',
+  shade_10 = '#0e0000',
+}
+
 local Kv = {}
 --Light colors
 Kv.background  = "#0e0000"
